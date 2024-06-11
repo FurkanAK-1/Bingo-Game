@@ -16,7 +16,7 @@ public class BingoCardClass<T> {
 			generateNumbersForRandomCard(); // Create a random card.
 			isRandomized = true;
 		} else {
-			createPredefinedCard(predefinedcardNumbers); // Create a predeterfined card
+			createPredefinedCard(predefinedcardNumbers); // Create a predeterfined card.
 			isRandomized = false;
 		}
 	}
