@@ -7,7 +7,7 @@ package bingogame;
 
 public class BingoCardClass<T> {
 
-	private NodeClass<Integer> head; // The starting node of the card.
+	private NodeClass<Integer> head; // The starting node of the card..
 	private boolean isRandomized;
 	private boolean isValid = true;
 
