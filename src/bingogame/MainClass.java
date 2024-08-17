@@ -28,7 +28,7 @@ public class MainClass {
 
 		BingoGameClass game = new BingoGameClass(randomcard, randomcard, randomPermutation);
 
-		game.playGame(); // Play Gamee.
+		game.playGame(); // Play Game.
 
 	}
 
